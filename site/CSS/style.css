@@ -1,0 +1,12 @@
+.row{
+    margin-top: 15px;
+    
+}
+
+.row > div{
+
+    background-color:gray;
+    border: 2px solid red;
+    color: white;
+
+}
